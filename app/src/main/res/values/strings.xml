@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI Itaú</string>
+    <string name="tv_conta">Ag: 3301 Conta: 00852</string>
+    <string name="tv_usuario">Olá, Leonardo</string>
+    <string name="tv_title">nossos serviços</string>
+    <string name="tv_subtitle">disponíveis para você</string>
+</resources>
